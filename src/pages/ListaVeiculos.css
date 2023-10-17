@@ -1,0 +1,20 @@
+h1.lista {
+    text-align: left;
+}
+
+ul  {
+    text-align: left;
+}
+
+button {
+    margin: 2px;
+    margin-bottom: 20px;
+}
+
+button.exclusao {
+    background-color: brown;
+}
+
+button.exclusao:hover {
+    background-color: rgb(187, 27, 27);
+}
